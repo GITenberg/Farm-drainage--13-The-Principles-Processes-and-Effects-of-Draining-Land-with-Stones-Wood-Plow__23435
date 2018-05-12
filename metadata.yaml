@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25840'
     url: http://www.gutenberg.org/2009/agents/25840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23435#Farm-drainage--13-The-Principles-Processes-and-Effects-of-Draining-Land-with-Stones-Wood-Plow_
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2007-11-10'
 gutenberg_type: Text
